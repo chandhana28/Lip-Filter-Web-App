@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@keyframes example{
+    from{box-shadow: 1px 1px 38px royalblue;}
+    to {box-shadow: 1px 1px 38px palevioletred;}
+}
